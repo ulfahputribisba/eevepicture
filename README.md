@@ -1,2 +1,2 @@
-# eevepicture
-website of photography and video
+# evepicture
+photography and video website
